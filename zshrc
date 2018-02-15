@@ -116,3 +116,4 @@ reply=($(ls $MARKPATH))
 export EDITOR=atom
 
 alias al='alias | grep'
+alias be=‘bundle exec’
