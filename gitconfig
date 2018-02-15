@@ -1,0 +1,9 @@
+[push]
+  default = simple
+[merge]
+  ff = true
+[user]
+  name = Samantha Causey
+  email = samantha.causey@annkissam.com
+[core]
+	editor = nano -w
